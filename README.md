@@ -1,1 +1,1 @@
-# notes
+# Notes for using [`matplotlib`]https://matplotlib.org/
